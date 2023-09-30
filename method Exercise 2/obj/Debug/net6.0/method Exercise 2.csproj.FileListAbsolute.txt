@@ -1,0 +1,14 @@
+C:\Users\geoha\source\repos\method Exercise 2\method Exercise 2\bin\Debug\net6.0\method Exercise 2.exe
+C:\Users\geoha\source\repos\method Exercise 2\method Exercise 2\bin\Debug\net6.0\method Exercise 2.deps.json
+C:\Users\geoha\source\repos\method Exercise 2\method Exercise 2\bin\Debug\net6.0\method Exercise 2.runtimeconfig.json
+C:\Users\geoha\source\repos\method Exercise 2\method Exercise 2\bin\Debug\net6.0\method Exercise 2.dll
+C:\Users\geoha\source\repos\method Exercise 2\method Exercise 2\bin\Debug\net6.0\method Exercise 2.pdb
+C:\Users\geoha\source\repos\method Exercise 2\method Exercise 2\obj\Debug\net6.0\method Exercise 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geoha\source\repos\method Exercise 2\method Exercise 2\obj\Debug\net6.0\method Exercise 2.AssemblyInfoInputs.cache
+C:\Users\geoha\source\repos\method Exercise 2\method Exercise 2\obj\Debug\net6.0\method Exercise 2.AssemblyInfo.cs
+C:\Users\geoha\source\repos\method Exercise 2\method Exercise 2\obj\Debug\net6.0\method Exercise 2.csproj.CoreCompileInputs.cache
+C:\Users\geoha\source\repos\method Exercise 2\method Exercise 2\obj\Debug\net6.0\method Exercise 2.dll
+C:\Users\geoha\source\repos\method Exercise 2\method Exercise 2\obj\Debug\net6.0\refint\method Exercise 2.dll
+C:\Users\geoha\source\repos\method Exercise 2\method Exercise 2\obj\Debug\net6.0\method Exercise 2.pdb
+C:\Users\geoha\source\repos\method Exercise 2\method Exercise 2\obj\Debug\net6.0\method Exercise 2.genruntimeconfig.cache
+C:\Users\geoha\source\repos\method Exercise 2\method Exercise 2\obj\Debug\net6.0\ref\method Exercise 2.dll
